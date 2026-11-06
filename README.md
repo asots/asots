@@ -1,20 +1,14 @@
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <img src="assets/hero-light.svg" width="100%" alt="asots · 田园小筑 — DeepSeek Harness plugin builder">
 </picture>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=building+calm%2C+fast+tools+for+AI+agents;DeepSeek+Harness+plugin+builder;performance%2C+not+decoration" alt="building calm, fast tools for AI agents">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=38BDF8&vCenter=true&width=760&lines=building+calm%2C+fast+tools+for+AI+agents;DeepSeek+Harness+plugin+builder;performance%2C+not+decoration" alt="building calm, fast tools for AI agents">
 </a>
-
-<br>
 
 <img src="https://img.shields.io/badge/DeepSeek%20Harness-plugin%20builder-0b1220?style=for-the-badge&labelColor=0b1220&color=22d3ee" alt="DeepSeek Harness plugin builder">
 <img src="https://img.shields.io/badge/%E7%94%B0%E5%9B%AD%E5%B0%8F%E7%AD%91-building%20in%20public-0b1220?style=for-the-badge&labelColor=0b1220&color=8b5cf6" alt="building in public">
-
-</div>
 
 ## 现在 / Now
 
@@ -26,17 +20,13 @@
 
 ## 作品 / Selected work
 
-<p align="center">
-  <a href="https://github.com/asots/dsh-longsession">
-    <img src="assets/card-dsh-longsession.svg" width="640" alt="dsh-longsession — reversible page-history collapse for DeepSeek Harness">
-  </a>
-</p>
+<a href="https://github.com/asots/dsh-longsession">
+  <img src="assets/card-dsh-longsession.svg" width="640" alt="dsh-longsession — reversible page-history collapse for DeepSeek Harness">
+</a>
 
-<p align="center">
-  <a href="https://github.com/asots/tav-workflow">
-    <img src="assets/card-tav-workflow.svg" width="640" alt="tav-workflow — evidence-based think-act-verify workflow">
-  </a>
-</p>
+<a href="https://github.com/asots/tav-workflow">
+  <img src="assets/card-tav-workflow.svg" width="640" alt="tav-workflow — evidence-based think-act-verify workflow">
+</a>
 
 > `dsh-longsession` 是我目前主要的公开项目：用宿主自己的 `SessionFace.resync()` 卸载已渲染的历史，把长会话的页面窗口从不断膨胀变成可收起、可还原。
 
@@ -51,19 +41,30 @@
 
 > 标了 `fork` 的是我用来学习和做实验的上游项目，不是我的原创作品。
 
+## GitHub 快照 / Stats
+
+<img src="assets/stats.svg" width="640" alt="GitHub stats for asots: repositories, followers, contributions, account age">
+
+<img src="https://komarev.com/ghpvc/?username=asots&label=VISITORS&color=22d3ee&style=for-the-badge" alt="profile visitors">
+
+<sub>Stats card 由 GitHub Actions 每日生成；visitor counter 由 komarev 提供。</sub>
+
+## 贡献 / Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asots/asots/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/asots/asots/output/github-contribution-grid-snake.svg" alt="asots contribution snake">
+</picture>
+
 ## 工具箱 / Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,powershell,nodejs,electron,git,github,windows,md&theme=dark" alt="JavaScript, TypeScript, PowerShell, Node.js, Electron, Git, GitHub, Windows, Markdown">
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,powershell,nodejs,electron,git,github,windows,md&theme=dark" alt="JavaScript, TypeScript, PowerShell, Node.js, Electron, Git, GitHub, Windows, Markdown">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0b1220?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/PowerShell-0b1220?style=flat-square&logo=powershell&logoColor=5391FE" alt="PowerShell">
-  <img src="https://img.shields.io/badge/Node.js-0b1220?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
-  <img src="https://img.shields.io/badge/DeepSeek%20Harness-0b1220?style=flat-square&color=22d3ee" alt="DeepSeek Harness">
-</p>
+<img src="https://img.shields.io/badge/JavaScript-0b1220?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+<img src="https://img.shields.io/badge/PowerShell-0b1220?style=flat-square&logo=powershell&logoColor=5391FE" alt="PowerShell">
+<img src="https://img.shields.io/badge/Node.js-0b1220?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+<img src="https://img.shields.io/badge/DeepSeek%20Harness-0b1220?style=flat-square&color=22d3ee" alt="DeepSeek Harness">
 
 ## 关于 / About
 
@@ -83,6 +84,4 @@
   </tr>
 </table>
 
-<div align="center">
-  <sub>Keep it calm, keep it fast. · 2026</sub>
-</div>
+<sub>Keep it calm, keep it fast. · 2026</sub>
