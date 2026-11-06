@@ -52,8 +52,8 @@
 ## 贡献 / Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asots/asots/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/asots/asots/output/github-contribution-grid-snake.svg" alt="asots contribution snake">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contribution-snake-dark.svg">
+  <img src="assets/contribution-snake-light.svg" alt="asots contribution snake">
 </picture>
 
 ## 工具箱 / Toolbox
