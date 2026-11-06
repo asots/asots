@@ -12,6 +12,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
 jobs:
   stats:
     runs-on: ubuntu-latest
@@ -35,5 +39,5 @@ jobs:
             echo "stats unchanged"
           else
             git commit -m "chore: refresh profile stats"
-            git push
+            git push || (git pull --rebase origin main && git push)
           fi
