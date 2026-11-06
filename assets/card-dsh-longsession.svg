@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="250" viewBox="0 0 640 250" role="img" aria-label="dsh-longsession — reversible page-history collapse for DeepSeek Harness">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="640" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111a31"/>
+    </linearGradient>
+    <linearGradient id="title" x1="28" y1="60" x2="360" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e2e8f0"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(570 20) rotate(90) scale(170)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22d3ee" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+  </defs>
+  <rect width="640" height="250" rx="20" fill="url(#cardBg)"/>
+  <circle cx="570" cy="20" r="170" fill="url(#glow)" filter="url(#blur)"/>
+  <g opacity="0.12" stroke="#38bdf8" stroke-width="1">
+    <path d="M0 60H640M0 120H640M0 180H640"/>
+    <path d="M80 0V250M240 0V250M400 0V250M560 0V250"/>
+  </g>
+  <rect x="0" y="0" width="6" height="250" rx="3" fill="#22d3ee" opacity="0.8"/>
+  <text x="28" y="44" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2.5">OPEN SOURCE / 01</text>
+  <text x="28" y="92" fill="url(#title)" font-family="Inter, Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="34" font-weight="700">dsh-longsession</text>
+  <text x="28" y="126" fill="#94a3b8" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="14">把长会话已加载的页面历史裁回最近两轮，</text>
+  <text x="28" y="148" fill="#94a3b8" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="14">可逆收起 · 不刷新页面 · 不删除聊天记录</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">
+    <rect x="28" y="168" width="98" height="24" rx="12" fill="#102238" stroke="#2b3f5c"/>
+    <text x="42" y="184" fill="#facc15">JavaScript</text>
+    <rect x="136" y="168" width="52" height="24" rx="12" fill="#102238" stroke="#2b3f5c"/>
+    <text x="150" y="184" fill="#a5b4fc">MIT</text>
+    <rect x="198" y="168" width="152" height="24" rx="12" fill="#102238" stroke="#2b3f5c"/>
+    <text x="212" y="184" fill="#67e8f9">DeepSeek Harness</text>
+  </g>
+  <text x="28" y="225" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">github.com/asots/dsh-longsession</text>
+  <path d="M585 216H605M598 209L605 216L598 223" stroke="#67e8f9" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

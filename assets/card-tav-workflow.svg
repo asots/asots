@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="250" viewBox="0 0 640 250" role="img" aria-label="tav-workflow — think-act-verify workflow for scoped changes">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="640" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#15132b"/>
+    </linearGradient>
+    <linearGradient id="title" x1="28" y1="60" x2="360" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e2e8f0"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(570 20) rotate(90) scale(170)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8b5cf6" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+  </defs>
+  <rect width="640" height="250" rx="20" fill="url(#cardBg)"/>
+  <circle cx="570" cy="20" r="170" fill="url(#glow)" filter="url(#blur)"/>
+  <g opacity="0.12" stroke="#a78bfa" stroke-width="1">
+    <path d="M0 60H640M0 120H640M0 180H640"/>
+    <path d="M80 0V250M240 0V250M400 0V250M560 0V250"/>
+  </g>
+  <rect x="0" y="0" width="6" height="250" rx="3" fill="#8b5cf6" opacity="0.85"/>
+  <text x="28" y="44" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2.5">OPEN SOURCE / 02</text>
+  <text x="28" y="92" fill="url(#title)" font-family="Inter, Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="34" font-weight="700">tav-workflow</text>
+  <text x="28" y="126" fill="#94a3b8" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="14">Think → Act → Verify：让 agent 的改动有证据、</text>
+  <text x="28" y="148" fill="#94a3b8" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="14">有边界、可重复，而不是一把梭。</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">
+    <rect x="28" y="168" width="92" height="24" rx="12" fill="#18152f" stroke="#3b3563"/>
+    <text x="42" y="184" fill="#a5b4fc">PowerShell</text>
+    <rect x="130" y="168" width="52" height="24" rx="12" fill="#18152f" stroke="#3b3563"/>
+    <text x="144" y="184" fill="#c4b5fd">MIT</text>
+    <rect x="192" y="168" width="108" height="24" rx="12" fill="#18152f" stroke="#3b3563"/>
+    <text x="206" y="184" fill="#a78bfa">AI workflow</text>
+  </g>
+  <text x="28" y="225" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">github.com/asots/tav-workflow</text>
+  <path d="M585 216H605M598 209L605 216L598 223" stroke="#c4b5fd" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

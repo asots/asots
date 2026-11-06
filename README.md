@@ -28,10 +28,13 @@
 
 <p align="center">
   <a href="https://github.com/asots/dsh-longsession">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asots&repo=dsh-longsession&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=8B5CF6&text_color=CBD5E1" alt="dsh-longsession — reversible page-history collapse for DeepSeek Harness">
+    <img src="assets/card-dsh-longsession.svg" width="640" alt="dsh-longsession — reversible page-history collapse for DeepSeek Harness">
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/asots/tav-workflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asots&repo=tav-workflow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=8B5CF6&text_color=CBD5E1" alt="tav-workflow — evidence-based think-act-verify workflow">
+    <img src="assets/card-tav-workflow.svg" width="640" alt="tav-workflow — evidence-based think-act-verify workflow">
   </a>
 </p>
 
